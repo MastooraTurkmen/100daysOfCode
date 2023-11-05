@@ -34,3 +34,12 @@ section {
   flex-direction: row;
   gap: 2em;
 }
+
+@media screen and (max-width: 500px) {
+  p {
+    font-size: 1.5rem;
+  }
+  section {
+    flex-direction: column;
+  }
+}
