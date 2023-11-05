@@ -16,3 +16,8 @@ h1 {
   font-weight: bold;
   margin-bottom: 0;
 }
+
+p {
+  color: gainsboro;
+  font-size: 2rem;
+}
