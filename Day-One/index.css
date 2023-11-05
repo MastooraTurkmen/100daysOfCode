@@ -23,9 +23,14 @@ p {
 }
 
 img {
-  min-width: 100%;
+  width: 300px;
+  border-radius: 1em;
 }
 
 section {
+  align-items: center;
+  justify-content: center;
   display: flex;
+  flex-direction: row;
+  gap: 2em;
 }
