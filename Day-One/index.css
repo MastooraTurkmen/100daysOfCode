@@ -21,3 +21,7 @@ p {
   color: gainsboro;
   font-size: 2rem;
 }
+
+img {
+  min-width: 100%;
+}
