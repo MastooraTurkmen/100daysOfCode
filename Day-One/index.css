@@ -25,3 +25,7 @@ p {
 img {
   min-width: 100%;
 }
+
+section {
+  display: flex;
+}
