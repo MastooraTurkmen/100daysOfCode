@@ -16,3 +16,5 @@
 4. changing display _flex_ to display _grid_
 
 ![Alt text](./Week-One/six-cats-pics.png)
+
+![Alt text](./Week-One/six-cats.png)
