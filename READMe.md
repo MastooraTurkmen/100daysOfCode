@@ -9,3 +9,6 @@
 ![Alt text](./Week-One/cats.png)
 
 ## Second Day of Code
+
+1. Adding _a_ link to images
+2. Adding other images to the site
