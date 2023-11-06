@@ -4,6 +4,6 @@
 
 > My first Cats Prject for _*100DaysOFTheCode*_
 
-![Alt text](./Day-One/cats-2.png)
+![Alt text](./Week-One/cats-2.png)
 
-![Alt text](./Day-One/cats.png)
+![Alt text](./Week-One/cats.png)
