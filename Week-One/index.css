@@ -31,7 +31,7 @@ section {
   align-items: center;
   justify-content: center;
   display: grid;
-  grid-template-columns: repeat(2, 300px);
+  grid-template-columns: repeat(auto-fill, 300px);
   gap: 2em;
 }
 
@@ -41,8 +41,5 @@ section {
   }
   p {
     font-size: 1.5rem;
-  }
-  section {
-    grid-template-columns: repeat(1, 300px);
   }
 }
