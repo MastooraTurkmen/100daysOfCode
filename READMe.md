@@ -14,3 +14,5 @@
 2. Adding other images to the site
 3. Display grid
 4. changing display _flex_ to display _grid_
+
+![Alt text](./Week-One/six-cats-pics.png)
