@@ -30,8 +30,8 @@ img {
 section {
   align-items: center;
   justify-content: center;
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
   gap: 2em;
 }
 
@@ -41,8 +41,5 @@ section {
   }
   p {
     font-size: 1.5rem;
-  }
-  section {
-    flex-direction: column;
   }
 }
