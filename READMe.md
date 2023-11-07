@@ -24,3 +24,4 @@
 - Adding Navbar
 - Adding _ul_ and _li_ to the nav
 - Adding Link to the **Home**, **About**, **Blogs**, and **Contact**.
+- Adding _Cat Logo_ on Site
