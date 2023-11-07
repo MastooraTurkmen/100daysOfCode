@@ -25,6 +25,11 @@ img {
   border-radius: 1em;
 }
 
+a img {
+  height: 300px;
+  object-fit: cover;
+}
+
 section {
   align-items: center;
   justify-content: center;
