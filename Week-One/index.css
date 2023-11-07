@@ -35,6 +35,24 @@ section {
   gap: 2em;
 }
 
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-ul {
+  list-style-type: none;
+}
+
+.navbar-ul a {
+  text-decoration: none;
+}
+
+.cat-logo {
+  width: 50px;
+  height: 50px;
+}
+
 @media screen and (max-width: 700px) {
   h1 {
     font-size: 2.5rem;
