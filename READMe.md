@@ -20,3 +20,5 @@
 ![Alt text](./Week-One/six-cats.png)
 
 ## Third Day of Code
+
+- Adding Navbar
