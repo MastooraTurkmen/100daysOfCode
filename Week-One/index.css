@@ -63,6 +63,11 @@ a.current {
   border-bottom: 2px solid black;
 }
 
+a.current:hover,
+a.current:focus {
+  border-bottom: 2px solid #c2b97f;
+}
+
 .cat-logo {
   width: 50px;
   height: 50px;
