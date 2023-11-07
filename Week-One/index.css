@@ -7,7 +7,6 @@ body {
 
 header {
   text-align: center;
-  margin-top: 2em;
 }
 
 h1 {
@@ -38,13 +37,18 @@ section {
 .navbar {
   display: flex;
   justify-content: space-between;
+  padding: 0 2em;
+  background-color: #fffaff;
 }
 
 .navbar-ul {
   list-style-type: none;
+  display: flex;
+  gap: 2em;
 }
 
 .navbar-ul a {
+  color: black;
   text-decoration: none;
 }
 
