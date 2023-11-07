@@ -18,3 +18,5 @@
 ![Alt text](./Week-One/six-cats-pics.png)
 
 ![Alt text](./Week-One/six-cats.png)
+
+## Third Day of Code
