@@ -96,10 +96,13 @@ main {
 
 .blogs-info {
   font-size: 1em;
+  margin: 0;
 }
 
 .blogs-img {
   object-fit: cover;
+  height: 200px;
+  width: 250px;
 }
 
 @media screen and (max-width: 700px) {
