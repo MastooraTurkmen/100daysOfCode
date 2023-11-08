@@ -4,9 +4,9 @@
 
 > My first Cats Prject for _*100DaysOFTheCode*_
 
-![Alt text](./Week-One/cats-2.png)
+![Alt text](./Week-One/images/cats-2.png)
 
-![Alt text](./Week-One/cats.png)
+![Alt text](./Week-One/images/cats.png)
 
 ## Second Day of Code
 
@@ -15,9 +15,9 @@
 3. Display **grid**
 4. changing display _flex_ to display _grid_
 
-![Alt text](./Week-One/six-cats-pics.png)
+![Alt text](./Week-One/images/six-cats-pics.png)
 
-![Alt text](./Week-One/six-cats.png)
+![Alt text](./Week-One/images/six-cats.png)
 
 ## Third Day of Code
 
@@ -29,4 +29,4 @@
 - Adding more cats images
 - Adding **hover**
 
-![Alt text](./Week-One/cats-pics.png)
+![Alt text](./Week-One/images/cats-pics.png)
