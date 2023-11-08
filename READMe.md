@@ -34,6 +34,9 @@
 ## Fourth Day of Code
 
 - Adding **Blogs** index
+
   - Working on Site designing
   - Flex Box
   - Gap
+
+- Adding Three Paragraphs About _Cats_, _Cats' Grooming_, _Cats' Whiskers_
