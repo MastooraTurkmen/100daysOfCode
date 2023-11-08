@@ -39,4 +39,8 @@
   - Flex Box
   - Gap
 
-- Adding Three Paragraphs About _Cats_, _Cats' Grooming_, _Cats' Whiskers_
+- Adding Four Paragraphs About
+  - _Cats_,
+  - _Cats' Communication_
+  - _Cats' Grooming_
+  - _Cats' Whiskers_
