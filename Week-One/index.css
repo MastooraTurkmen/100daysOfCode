@@ -78,11 +78,28 @@ a.current:focus {
   height: 50px;
 }
 
+/* Blogs */
+
 main {
   height: 100vh;
   background-color: #fbfcf8;
   margin: 0 10em;
   border-top: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+.blogs {
+  display: flex;
+  justify-content: space-around;
+  gap: 1em;
+  padding: 1em;
+}
+
+.blogs-info {
+  font-size: 1em;
+}
+
+.blogs-img {
+  object-fit: cover;
 }
 
 @media screen and (max-width: 700px) {
