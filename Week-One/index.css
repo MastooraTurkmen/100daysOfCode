@@ -80,7 +80,7 @@ a.current:focus {
 
 /* Blogs */
 
-main {
+.main {
   min-height: 100vh;
   background-color: #fbfcf8;
   margin: 0 10em;
@@ -104,6 +104,50 @@ main {
   margin: 0;
   height: 200px;
   width: 240px;
+}
+
+/* About */
+
+.introduction {
+  display: flex;
+  flex-direction: row;
+  padding: 0 2em;
+  margin-top: 0;
+  min-height: unset;
+}
+
+.introduction h1 {
+  font-size: 2em;
+}
+
+.introduction p {
+  font-size: 1.3em;
+}
+
+.my-img {
+  border-radius: 50%;
+  width: 182px;
+  height: 182px;
+  object-fit: cover;
+}
+
+.introduction-about {
+  max-width: 100%;
+  padding: 2em;
+}
+
+.introduction-about h3 {
+  text-align: center;
+  margin-top: 1.6em;
+  font-size: 2rem;
+}
+
+.introduction-about p {
+  font-size: 1.3em;
+}
+
+#started {
+  margin-top: 0.7em;
 }
 
 @media screen and (max-width: 700px) {
