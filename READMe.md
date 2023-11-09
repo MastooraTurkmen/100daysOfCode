@@ -48,3 +48,12 @@
 ![Alt text](./Week-One/images/Blogs-1.png)
 
 ![Alt text](./Week-One/images/Blogs-2.png)
+
+## Fifth Day of Code
+
+- Adding **About** Page index
+  - Adding about my learning prograses
+  - How I stay committed to learning
+  - How I got started
+
+![Alt text](./Week-One/images/about-page-screenshot.pngs)
