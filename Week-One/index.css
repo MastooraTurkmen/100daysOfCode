@@ -162,14 +162,27 @@ form {
   border-radius: 1em;
 }
 
-input {
+textarea {
+  resize: none;
+}
+
+input,
+button,
+textarea {
   padding: 1em;
   border: none;
   border-radius: 0.5em;
   background-color: #9f9a7a;
   color: black;
-  font-size: 0.8em;
+  font-size: 1em;
   margin-bottom: 1em;
+}
+
+button {
+  cursor: pointer;
+  font-size: 1.2em;
+  margin-top: 0.5em;
+  font-weight: bold;
 }
 
 label {
