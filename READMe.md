@@ -26,7 +26,7 @@
 - Adding Link to the **Home**, **About**, **Blogs**, and **Contact**.
 - Adding _Cat Logo_ on Site
 - Changing the _background color_ and adding **Box Shadow** on navbar
-- Adding more cat images
+- Adding more cats images
 - Adding **hover**
 
 ![Alt text](./Week-One/images/cats-pics.png)
@@ -35,7 +35,7 @@
 
 - Adding **Blogs** index
 
-  - Working on Site Designing
+  - Working on Site designing
   - Flex Box
   - Gap
 
@@ -51,8 +51,8 @@
 
 ## Fifth Day of Code
 
-- Adding **About** Page Index
-  - Adding about my learning progress
+- Adding **About** Page index
+  - Adding about my learning prograses
   - How I stay committed to learning
   - How I got started
 
@@ -60,13 +60,13 @@
 
 ## Sixth Day of Code
 
-- Adding **Contacts** Page Index
+- Adding **Contacts** Page index
 
   - Adding forms
 
     - Label
     - Input
-    - textarea 
+    - textarea
     - Submit Button
 
   - Adding Logo to my site
