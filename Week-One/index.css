@@ -186,12 +186,22 @@ button {
 }
 
 label {
-  font-size: 1em;
+  font-size: 1.4em;
 }
 
 input::placeholder {
   color: #fbfcf8;
 }
+
+input:hover,
+input:focus,
+textarea:hover,
+textarea:focus,
+button:focus,
+button:hover {
+  background-color: #c2b97f;
+}
+
 @media screen and (max-width: 700px) {
   h1 {
     font-size: 2.5rem;
