@@ -150,6 +150,34 @@ a.current:focus {
   margin-top: 0.7em;
 }
 
+/* Contact */
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 4em auto;
+  background-color: #fbfcf8;
+  padding: 2em;
+  border-radius: 1em;
+}
+
+input {
+  padding: 1em;
+  border: none;
+  border-radius: 0.5em;
+  background-color: #9f9a7a;
+  color: black;
+  font-size: 1em;
+}
+
+label {
+  font-size: 1.5em;
+}
+
+input::placeholder {
+  color: #fbfcf8;
+}
 @media screen and (max-width: 700px) {
   h1 {
     font-size: 2.5rem;
