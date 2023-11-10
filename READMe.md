@@ -69,11 +69,13 @@
     - textarea
     - Submit Button
 
-  -Adding Logo to my site
-  -Styling the form
+  - Adding Logo to my site
+  - Styling the form
 
   - flex box
   - padding
   - hover
   - focus
   - shadow
+
+![Alt text](./Week-One/images/contacts-page.png)
