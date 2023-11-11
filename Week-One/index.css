@@ -111,14 +111,23 @@ a.current:focus {
   flex-direction: row;
   gap: 5em;
   justify-content: center;
-  padding: 0 10em;
+  margin: 0 10em;
+  padding: 2em;
+  background-color: #fbfcf8;
+}
+.Persain-cat-info img {
+  width: 250px;
+  object-fit: cover;
+  height: 250px;
 }
 
 .persain-cat-titile {
   text-align: center;
   font-size: 4em;
   padding: 0.5em;
-  margin-bottom: 1em;
+  margin-bottom: 0;
+  margin-left: 2.5em;
+  margin-right: 2.5em;
   background-color: #fbfcf8;
 }
 
