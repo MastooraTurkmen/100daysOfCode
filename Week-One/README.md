@@ -4,6 +4,8 @@
 
 ![Alt text](./images/cats.png)
 
+![Alt text](./Week-One/images/cats-pics.png)
+
 ## Second Day of Code
 
 1. Adding _a_ link to images
