@@ -84,4 +84,4 @@
 - links
 -
 
-![Alt text](./Week-One/images/Screenshot-persain-cat.png)
+![Alt text](./images/Screenshot-persain-cat.png)
