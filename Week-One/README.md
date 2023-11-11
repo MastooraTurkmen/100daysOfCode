@@ -77,3 +77,5 @@
 
 ![Alt text](./Week-One/images/contacts-page.png)
 
+## Seventh Day of Code
+
