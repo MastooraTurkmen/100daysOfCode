@@ -3,6 +3,7 @@
 ## First Day of Code
 
 > My first Cats Prject for _*100DaysOFTheCode*_
+> https://my-best-cats-project.netlify.app/
 
 ![Alt text](./Week-One/images/cats-2.png)
 
@@ -26,7 +27,7 @@
 - Adding Link to the **Home**, **About**, **Blogs**, and **Contact**.
 - Adding _Cat Logo_ on Site
 - Changing the _background color_ and adding **Box Shadow** on navbar
-- Adding more cats images
+- Adding more cat images
 - Adding **hover**
 
 ![Alt text](./Week-One/images/cats-pics.png)
@@ -35,7 +36,7 @@
 
 - Adding **Blogs** index
 
-  - Working on Site designing
+  - Working on Site Designing
   - Flex Box
   - Gap
 
@@ -51,8 +52,8 @@
 
 ## Fifth Day of Code
 
-- Adding **About** Page index
-  - Adding about my learning prograses
+- Adding **About** Page Index
+  - Adding about my learning progress
   - How I stay committed to learning
   - How I got started
 
@@ -60,13 +61,13 @@
 
 ## Sixth Day of Code
 
-- Adding **Contacts** Page index
+- Adding **Contacts** Page Index
 
   - Adding forms
 
     - Label
     - Input
-    - textarea
+    - textarea 
     - Submit Button
 
   - Adding Logo to my site
