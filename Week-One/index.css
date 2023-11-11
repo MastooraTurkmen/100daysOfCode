@@ -85,6 +85,7 @@ a.current:focus {
   background-color: #fbfcf8;
   margin: 0 10em;
   border-top: 2px solid rgba(0, 0, 0, 0.5);
+  border-bottom-left-radius: 2em;
 }
 
 .blogs {
