@@ -114,6 +114,9 @@ a.current:focus {
   margin: 0 10em;
   padding: 2em;
   background-color: #fbfcf8;
+  margin-bottom: 2em;
+  border-bottom-right-radius: 2em;
+  border-bottom-left-radius: 2em;
 }
 
 .Persain-cat-info p {
