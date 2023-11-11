@@ -53,3 +53,16 @@
   - How I got started
 
 ![Alt text](./images/about-page-screenshot.png)
+
+
+
+## Sixth Day of Code
+
+- Adding **Contacts** Page Index
+
+  - Adding forms
+
+    - Label
+    - Input
+    - textarea
+    - Submit Button
