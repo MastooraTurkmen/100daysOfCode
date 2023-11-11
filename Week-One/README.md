@@ -1,6 +1,6 @@
 ## First Day of Code
 
-![Alt text](./Week-One/images/cats-2.png)
+![Alt text](./images/cats-2.png)
 
 ![Alt text](./images/cats.png)
 
