@@ -123,8 +123,13 @@ a.current:focus {
   font-size: 1em;
 }
 
-.persain-cat-titile a {
+.Persain-cat-info a {
   font-weight: bold;
+  text-decoration: none;
+  color: #c2b97f;
+}
+.Persain-cat-info a:hover {
+  text-decoration: underline;
 }
 
 .persain-cat-titile {
