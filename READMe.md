@@ -8,14 +8,7 @@
 ![Alt text](./Week-One/images/cats-pics.png)
 
 
-## Fifth Day of Code
 
-- Adding **About** Page Index
-  - Adding about my learning progress
-  - How I stay committed to learning
-  - How I got started
-
-![Alt text](./Week-One/images/about-page-screenshot.png)
 
 ## Sixth Day of Code
 
