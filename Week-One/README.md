@@ -39,6 +39,6 @@
   - _Cats' Grooming_
   - _Cats' Whiskers_
 
-![Alt text](./Week-One/images/Blogs-1.png)
+![Alt text](./images/Blogs-1.png)
 
-![Alt text](./Week-One/images/Blogs-2.png)
+![Alt text](./images/Blogs-2.png)
