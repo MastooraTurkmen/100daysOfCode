@@ -79,3 +79,9 @@
 
 ## Seventh Day of Code
 
+- Adding Aritcle about _**Persain Cats**_
+- some persain cats images
+- links
+-
+
+![Alt text](./Week-One/images/Screenshot-persain-cat.png)
