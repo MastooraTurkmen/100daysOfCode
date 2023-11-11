@@ -66,3 +66,12 @@
     - Input
     - textarea
     - Submit Button
+
+  - Adding Logo to my site
+  - Styling the form
+    - flex box
+    - padding
+    - hover
+    - focus
+    - shadow
+
