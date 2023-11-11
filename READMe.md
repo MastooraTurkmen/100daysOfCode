@@ -2,8 +2,7 @@
 
 ## First Day of Code
 
-> My first Cats Prject for _*100DaysOFTheCode*_
-> https://my-best-cats-project.netlify.app/
+> My first Cats Prject for _*100DaysOFTheCode*_ > https://my-best-cats-project.netlify.app/
 
 ![Alt text](./Week-One/images/cats-2.png)
 
@@ -67,7 +66,7 @@
 
     - Label
     - Input
-    - textarea 
+    - textarea
     - Submit Button
 
   - Adding Logo to my site
@@ -79,3 +78,10 @@
     - shadow
 
 ![Alt text](./Week-One/images/contacts-page.png)
+
+## Seventh Day of Code
+
+- Adding Aritcle about _**Persain Cats**_
+- some persain cats images
+- links
+- characters
