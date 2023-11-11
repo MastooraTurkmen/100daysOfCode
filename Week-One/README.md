@@ -75,3 +75,5 @@
     - focus
     - shadow
 
+![Alt text](./Week-One/images/contacts-page.png)
+
