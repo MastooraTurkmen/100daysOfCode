@@ -2,7 +2,7 @@
 
 ![Alt text](./Week-One/images/cats-2.png)
 
-![Alt text](./Week-One/images/cats.png)
+![Alt text](./images/cats.png)
 
 ## Second Day of Code
 
