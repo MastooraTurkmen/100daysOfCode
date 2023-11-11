@@ -106,6 +106,26 @@ a.current:focus {
   width: 240px;
 }
 
+.Persain-cat-info {
+  display: flex;
+  flex-direction: row;
+  gap: 5em;
+  justify-content: center;
+  padding: 0 10em;
+}
+
+.persain-cat-titile {
+  text-align: center;
+  font-size: 4em;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  background-color: #fbfcf8;
+}
+
+.colom {
+  /* width: 500px; */
+}
+
 /* About */
 
 .introduction {
@@ -201,21 +221,6 @@ textarea:focus,
 button:focus,
 button:hover {
   background-color: #c2b97f;
-}
-
-.Persain-cat-info {
-  display: flex;
-  flex-direction: row;
-  gap: 2em;
-  justify-content: center;
-}
-
-.persain-cat-titile {
-  text-align: center;
-}
-
-.colom {
-  width: 500px;
 }
 
 @media screen and (max-width: 700px) {
