@@ -14,3 +14,14 @@
 ![Alt text](./Week-One/images/six-cats-pics.png)
 
 ![Alt text](./Week-One/images/six-cats.png)
+
+
+## Third Day of Code
+
+- Adding Navbar
+- Adding _ul_ and _li_ to the nav
+- Adding Link to the **Home**, **About**, **Blogs**, and **Contact**.
+- Adding _Cat Logo_ on Site
+- Changing the _background color_ and adding **Box Shadow** on navbar
+- Adding more cat images
+- Adding **hover**

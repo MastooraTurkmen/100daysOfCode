@@ -5,16 +5,6 @@
 > My first Cats Prject for _*100DaysOFTheCode*_ > https://my-best-cats-project.netlify.app/
 
 
-## Third Day of Code
-
-- Adding Navbar
-- Adding _ul_ and _li_ to the nav
-- Adding Link to the **Home**, **About**, **Blogs**, and **Contact**.
-- Adding _Cat Logo_ on Site
-- Changing the _background color_ and adding **Box Shadow** on navbar
-- Adding more cat images
-- Adding **hover**
-
 ![Alt text](./Week-One/images/cats-pics.png)
 
 ## Fourth Day of Code
