@@ -108,31 +108,37 @@ a.current:focus {
 
 .Persain-cat-info {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 5em;
   justify-content: center;
   margin: 0 10em;
   padding: 2em;
   background-color: #fbfcf8;
 }
-.Persain-cat-info img {
-  width: 250px;
-  object-fit: cover;
-  height: 250px;
+
+.Persain-cat-info p {
+  font-size: 1em;
 }
 
 .persain-cat-titile {
-  text-align: center;
   font-size: 4em;
   padding: 0.5em;
   margin-bottom: 0;
   margin-left: 2.5em;
   margin-right: 2.5em;
   background-color: #fbfcf8;
+  text-align: center;
 }
 
 .colom {
-  /* width: 500px; */
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+}
+.Persain-cat-info img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
 }
 
 /* About */
