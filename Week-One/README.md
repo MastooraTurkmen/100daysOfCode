@@ -4,7 +4,7 @@
 
 ![Alt text](./images/cats.png)
 
-![Alt text](./Week-One/images/cats-pics.png)
+![Alt text](./images/cats-pics.png)
 
 ## Second Day of Code
 
