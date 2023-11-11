@@ -143,6 +143,8 @@ a.current:focus {
   margin-right: 2.5em;
   background-color: #fbfcf8;
   text-align: center;
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
 }
 
 .colom {
