@@ -7,19 +7,7 @@
 
 ![Alt text](./Week-One/images/cats-pics.png)
 
-## Fourth Day of Code
 
-- Adding **Blogs** index
-
-  - Working on Site Designing
-  - Flex Box
-  - Gap
-
-- Adding Four Paragraphs About
-  - _Cats_,
-  - _Cats' Communication_
-  - _Cats' Grooming_
-  - _Cats' Whiskers_
 
 ![Alt text](./Week-One/images/Blogs-1.png)
 
