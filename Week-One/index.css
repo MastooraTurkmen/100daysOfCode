@@ -30,7 +30,7 @@ a img {
   object-fit: cover;
 }
 
-section {
+.section {
   align-items: center;
   justify-content: center;
   display: grid;
@@ -201,6 +201,21 @@ textarea:focus,
 button:focus,
 button:hover {
   background-color: #c2b97f;
+}
+
+.Persain-cat-info {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  justify-content: center;
+}
+
+.persain-cat-titile {
+  text-align: center;
+}
+
+.colom {
+  width: 500px;
 }
 
 @media screen and (max-width: 700px) {
