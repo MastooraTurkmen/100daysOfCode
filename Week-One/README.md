@@ -38,3 +38,7 @@
   - _Cats' Communication_
   - _Cats' Grooming_
   - _Cats' Whiskers_
+
+![Alt text](./Week-One/images/Blogs-1.png)
+
+![Alt text](./Week-One/images/Blogs-2.png)

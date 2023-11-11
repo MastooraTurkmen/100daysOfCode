@@ -8,11 +8,6 @@
 ![Alt text](./Week-One/images/cats-pics.png)
 
 
-
-![Alt text](./Week-One/images/Blogs-1.png)
-
-![Alt text](./Week-One/images/Blogs-2.png)
-
 ## Fifth Day of Code
 
 - Adding **About** Page Index
