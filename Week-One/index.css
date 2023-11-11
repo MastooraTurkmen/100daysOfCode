@@ -123,6 +123,10 @@ a.current:focus {
   font-size: 1em;
 }
 
+.persain-cat-titile a {
+  font-weight: bold;
+}
+
 .persain-cat-titile {
   font-size: 4em;
   padding: 0.5em;
