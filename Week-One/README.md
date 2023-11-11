@@ -50,4 +50,4 @@
   - How I stay committed to learning
   - How I got started
 
-![Alt text](./Week-One/images/about-page-screenshot.png)
+![Alt text](./images/about-page-screenshot.png)
