@@ -27,4 +27,9 @@
 
 ## Fourth Day of Code
 
+- Adding **Blogs** index
+
+  - Working on Site Designing
+  - Flex Box
+  - Gap
 
