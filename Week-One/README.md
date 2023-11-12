@@ -41,7 +41,7 @@
   - _Cats' Grooming_
   - _Cats' Whiskers_
 
-![Alt text](./images/Blogs-1.png)
+![Screenshot](./images/Blogs-1.png)
 
 ![Screenshot](./images/Blogs-2.png)
 
