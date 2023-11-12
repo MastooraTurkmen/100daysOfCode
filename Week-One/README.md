@@ -52,7 +52,7 @@
   - How I stay committed to learning
   - How I got started
 
-![Alt text](./images/about-page-screenshot.png)
+![Screenshot](./images/about-page-screenshot.png)
 
 
 
