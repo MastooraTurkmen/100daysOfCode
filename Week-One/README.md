@@ -1,6 +1,6 @@
 ## First Day of Code
 
-![Alt text](./images/cats-2.png)
+![Screenshot](./images/cats-2.png)
 
 ![Screenshot](./images/cats.png)
 
