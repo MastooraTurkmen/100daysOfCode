@@ -2,7 +2,7 @@
 
 ![Alt text](./images/cats-2.png)
 
-![Alt text](./images/cats.png)
+![Screenshot](./images/cats.png)
 
 ![Screenshot](./images/cats-pics.png)
 
