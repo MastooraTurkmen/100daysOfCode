@@ -43,7 +43,7 @@
 
 ![Alt text](./images/Blogs-1.png)
 
-![Alt text](./images/Blogs-2.png)
+![Screenshot](./images/Blogs-2.png)
 
 ## Fifth Day of Code
 
