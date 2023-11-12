@@ -84,4 +84,4 @@
 - links
 -
 
-![Alt text](./images/Screenshot-persain-cat.png)
+![Screenshot](./images/Screenshot-persain-cat.png)
