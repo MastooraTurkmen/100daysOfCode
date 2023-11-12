@@ -13,7 +13,7 @@
 3. Display **grid**
 4. changing display _flex_ to display _grid_
 
-![Alt text](./images/six-cats-pics.png)
+![Screenshot](./images/six-cats-pics.png)
 
 ![Screenshot](./images/six-cats.png)
 
