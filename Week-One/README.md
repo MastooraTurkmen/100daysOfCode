@@ -15,7 +15,7 @@
 
 ![Alt text](./images/six-cats-pics.png)
 
-![Alt text](./images/six-cats.png)
+![Screenshot](./images/six-cats.png)
 
 ## Third Day of Code
 
