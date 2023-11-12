@@ -75,7 +75,7 @@
     - focus
     - shadow
 
-![Alt text](./Week-One/images/contacts-page.png)
+![Screenshot](./Week-One/images/contacts-page.png)
 
 ## Seventh Day of Code
 
