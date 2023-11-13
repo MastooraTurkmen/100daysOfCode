@@ -1,6 +1,6 @@
 # Portfolio
 
-![alt text](image.png)
+![Screenshots](image.png)
 
 ![alt text](image-1.png)
 
