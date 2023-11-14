@@ -1,6 +1,6 @@
 # Portfolio
 
-![Screenshots](image.png)
+![Screenshots](./screenshots/image.png)
 
 ![Screenshots](image-1.png)
 
