@@ -4,7 +4,7 @@
 
 ![Screenshots](./screenshots/image-1.png)
 
-![Screenshots](image-2.png)
+![Screenshots](./screenshots/image-2.png)
 
 ![Screenshots](image-3.png)
 
