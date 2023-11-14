@@ -13,6 +13,6 @@
 ![Screenshots](./screenshots/image-4.png)
 
 
-### Projects
+### Projects Desktop
 
 ![alt text](image.png)
