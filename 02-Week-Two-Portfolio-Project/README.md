@@ -1,6 +1,6 @@
 # Portfolio
 
-### Home Page
+### Home Page Desktop
 
 ![Screenshots](./screenshots/image.png)
 
