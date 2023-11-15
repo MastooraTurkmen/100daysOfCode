@@ -30,5 +30,5 @@
 
 ### Project Mobile
 
-![alt text](Mobile-10.png)
+![Screenshots](Mobile-10.png)
 ![alt text](Mobile-11.png)
