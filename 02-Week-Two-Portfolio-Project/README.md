@@ -26,7 +26,7 @@
 ![alt text](Mobile-4.png)
 ![alt text](Mobile-5.png)
 ![alt text](Mobile-6.png)
-![alt text](image-7.png)
+![alt text](Mobile-7.png)
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 
