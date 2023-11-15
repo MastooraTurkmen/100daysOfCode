@@ -14,7 +14,7 @@
 
 ### Projects Desktop
 
-![alt text](./screenshots/image-0.png)
+![Screenshots](./screenshots/image-0.png)
 
 ### Home Page Mobile
 
