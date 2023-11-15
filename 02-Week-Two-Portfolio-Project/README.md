@@ -12,11 +12,9 @@
 
 ![Screenshots](./screenshots/image-4.png)
 
-
 ### Projects Desktop
 
-![alt text](image.png)
-
+![alt text](./screenshots/image-0.png)
 
 ### Home Page Mobile
 
