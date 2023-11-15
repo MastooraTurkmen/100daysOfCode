@@ -25,7 +25,7 @@
 ![Screenshots](Mobile-5.png)
 ![Screenshots](Mobile-6.png)
 ![Screenshots](Mobile-7.png)
-![alt text](Mobile-8.png)
+![Screenshots](Mobile-8.png)
 ![alt text](Mobile-9.png)
 
 ### Project Mobile
