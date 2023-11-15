@@ -20,7 +20,7 @@
 
 ### Home Page Mobile
 
-![Screenshots](Mobile-1.png)
+![Screenshots](./screenshots/Mobile-1.png)
 ![Screenshots](Mobile-2.png)
 ![Screenshots](Mobile-3.png)
 ![Screenshots](Mobile-4.png)
