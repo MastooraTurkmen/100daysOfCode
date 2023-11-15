@@ -19,7 +19,7 @@
 ### Home Page Mobile
 
 ![Screenshots](Mobile-1.png)
-![alt text](Mobile-2.png)
+![Screenshots](Mobile-2.png)
 ![alt text](Mobile-3.png)
 ![alt text](Mobile-4.png)
 ![alt text](Mobile-5.png)
