@@ -25,7 +25,7 @@
 ![Screenshots](./screenshots/Mobile-3.png)
 ![Screenshots](./screenshots/Mobile-4.png)
 ![Screenshots](./screenshots/Mobile-5.png)
-![Screenshots](Mobile-6.png)
+![Screenshots](./screenshots/Mobile-6.png)
 ![Screenshots](Mobile-7.png)
 ![Screenshots](Mobile-8.png)
 ![Screenshots](Mobile-9.png)
