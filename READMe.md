@@ -28,3 +28,5 @@ $ cd 100DaysOFTheCode
    - [CSS3](https://github.com/topics/css3)
    - [React](https://github.com/topics/react)
    - [JavaScript](https://github.com/topics/javascript)
+
+2. **Tools** 🔧
