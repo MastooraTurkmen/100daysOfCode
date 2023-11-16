@@ -37,3 +37,5 @@ $ cd 100DaysOFTheCode
    - [Netlify](https://github.com/topics/netlify)
 
 ---
+
+## Author 👩🏻‍💻
