@@ -6,6 +6,8 @@
 
 ## Second Week of Code
 
+Portfolio Project
+
 ---
 
 ## For cloning the project 🪛
