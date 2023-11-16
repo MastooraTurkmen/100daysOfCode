@@ -7,5 +7,6 @@
 ## For cloning the project 🪛
 
 ```bash
+# Clone this repository
 
 ```
