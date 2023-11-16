@@ -22,5 +22,6 @@ $ cd 100DaysOFTheCode
 
 1. **Languages** 🗣️
 
-    + [HTML](https://github.com/topics/html)
-    + [HTML5](https://github.com/topics/html5)
+   - [HTML](https://github.com/topics/html)
+   - [HTML5](https://github.com/topics/html5)
+   - [CSS](https://github.com/topics/css)
