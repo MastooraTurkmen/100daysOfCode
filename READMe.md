@@ -10,5 +10,5 @@
 # Clone this repository
 $ gh repo clone MastooraTurkmen/100DaysOFTheCode
 
-
+# Go inside the repository
 ```
