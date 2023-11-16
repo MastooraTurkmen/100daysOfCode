@@ -41,3 +41,5 @@ $ cd 100DaysOFTheCode
 ## Author 👩🏻‍💻
 
 1. **Mastoora Turkmen**
+
+[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/)
