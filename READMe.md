@@ -8,5 +8,7 @@
 
 ```bash
 # Clone this repository
+$ gh repo clone MastooraTurkmen/100DaysOFTheCode
+
 
 ```
