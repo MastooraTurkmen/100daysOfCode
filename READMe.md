@@ -11,4 +11,5 @@
 $ gh repo clone MastooraTurkmen/100DaysOFTheCode
 
 # Go inside the repository
+$ cd 100DaysOFTheCode
 ```
