@@ -19,3 +19,5 @@ $ cd 100DaysOFTheCode
 ---
 
 ## Languages and Tools are used 🗣️🔧
+
+1. **Languages** 🗣️
