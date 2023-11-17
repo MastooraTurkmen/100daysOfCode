@@ -1,0 +1,392 @@
+:root {
+	--blue: #364659;
+	--white: #ffffff;
+	--grey: rgb(171, 171, 171);
+
+	--mohave: 'Mohave', sans-serif;
+	--nunito: 'Nunito Sans', sans-serif;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/* Main Background Image Properties */
+.history-section,
+#schedule-section,
+#accordion-body-one,
+#accordion-body-two {
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+/* Parallax Effect For The Hero Section */
+.hero-section {
+	display: none;
+}
+
+.parallax-wrapper {
+	height: 100vh;
+	overflow-y: auto;
+	overflow-x: hidden;
+	perspective: 10px;
+}
+
+header {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	transform-style: preserve-3d;
+	z-index: -1;
+}
+
+.background {
+	transform: translateZ(-10px) scale(2);
+}
+
+.foreground {
+	transform: translateZ(-5px) scale(1.5);
+}
+
+.background,
+.foreground {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	z-index: -1;
+}
+
+/* Nav Bars */
+#navbar-content {
+	width: 60%;
+}
+
+#top-logo {
+	margin-left: 1rem;
+}
+
+.nav-links a {
+	color: var(--white);
+}
+
+.nav-links a,
+.second-nav-links a {
+	cursor: pointer;
+	font-weight: 600;
+	font-family: var(--nunito);
+}
+
+.history-link {
+	margin-right: 3rem;
+}
+
+.second-nav-links a {
+	color: var(--blue);
+}
+
+#navbar-one {
+	width: 100%;
+	position: fixed;
+	top: 0px;
+}
+
+#navbar-two {
+	background-color: var(--white) !important;
+}
+
+/* History Section */
+.history-section {
+	background-image: url("../images/lam-middle-image.png");
+	height: 100vh;
+	display: grid;
+	justify-items: center;
+	align-content: space-between;
+}
+
+.history-info {
+	padding-top: 2rem;
+	width: 62%;
+}
+
+.history-title {
+	justify-self: start;
+}
+
+.history-text {
+	padding-left: 3.5rem;
+	padding-right: 3.5rem;
+}
+
+/* Carousel */
+.gallery {
+	height: 10rem;
+	width: 100%;
+}
+
+.gallery-cell {
+	height: 10rem;
+	width: 100%;
+	margin-right: 10px;
+	background-color: #364659cf;
+
+	display: grid;
+	justify-items: center;
+	align-content: center;
+}
+
+.flickity-page-dots {
+	top: 9.25rem;
+}
+
+.flickity-page-dots button {
+	background-color: rgba(255, 255, 255, 0.475);
+}
+
+.flickity-page-dots button.is-selected {
+	background-color: var(--white);
+}
+
+/* Climb Section */
+.climb-section {
+	display: grid;
+	justify-items: center;
+}
+
+.climb-info {
+	display: flex;
+	align-items: center;
+	width: 62%;
+
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding-left: 3rem;
+	padding-right: 1rem;
+}
+
+.climb-text {
+	padding-left: 1rem;
+}
+
+/* Schedule Tabs */
+.mountain-tabs {
+	background-color: var(--blue);
+	width: 100%;
+	height: 2.5rem;
+	display: grid;
+	justify-items: center;
+}
+
+.tabs {
+	width: 62%;
+	display: flex;
+	align-items: center;
+}
+
+.tabs button {
+	height: 100%;
+	font-family: var(--mohave);
+	font-size: x-large;
+	border-radius: 0%;
+	border: none;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.active {
+	background-color: var(--grey);
+	color: var(--blue);
+	text-decoration: underline;
+}
+
+.inactive {
+	background-color: var(--blue);
+	color: var(--grey);
+}
+
+#schedule-section {
+	height: 100vh;
+	display: grid;
+	justify-items: center;
+	align-content: space-between;
+}
+
+.active-section {
+	background-image: url("../images/lam-tab-1.png");
+}
+
+.inactive-section {
+	background-image: url("../images/lam-tab-2.png");
+}
+
+.schedule-image {
+	width: 62%;
+}
+
+.schedule-image img {
+	margin-top: 6rem;
+	margin-left: 2.5rem;
+}
+
+.active-tab-image {
+	display: block;
+}
+
+.inactive-tab-image {
+	display: none;
+}
+
+/* Mobile Tab Accordion */
+.accordion {
+	display: none;
+}
+
+.accordion-button {
+	color: var(--blue);
+	font-weight: 500;
+	font-size: x-large;
+}
+
+#accordion-body-one,
+#accordion-body-two {
+	height: 60vh;
+	display: grid;
+	place-content: center;
+}
+
+#accordion-body-one {
+	background-image: url("../images/lam-tab-1.png");
+}
+
+#accordion-body-two {
+	background-image: url("../images/lam-tab-2.png");
+}
+
+/* Footer */
+.footer {
+	background-color: #465573;
+	width: 100%;
+	height: 5rem;
+	display: grid;
+	justify-items: center;
+}
+
+.footer-div {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 62%;
+}
+
+.footer-logo-link {
+	margin-left: 1.5rem;
+}
+
+.copyright {
+	color: #687da6;
+	font-weight: 900;
+	font-family: var(--nunito);
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+	/* Hero Section */
+	.hero-section {
+		display: block;
+		background-image: url("../images/lam-hero-image.png");
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		height: 40vh;
+	}
+
+	header {
+		display: none;
+	}
+
+	/* Nav Bars */
+	#navbar-content {
+		width: 100%;
+	}
+
+	#top-logo {
+		margin-left: 0rem;
+	}
+
+	.nav-links a,
+	.second-nav-links a {
+		font-size: small;
+	}
+
+	/* History Section */
+	.history-info {
+		width: 90%;
+	}
+
+	.history-text {
+		padding-left: 1rem;
+		padding-right: 1rem;
+	}
+
+	/* Climb Section */
+	.climb-info {
+		width: 90%;
+		display: grid;
+
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+		padding-left: 0rem;
+		padding-right: 0rem;
+	}
+
+	.climb-title {
+		justify-self: start;
+	}
+
+	/* Schedule Section */
+	.mountain-tabs,
+	#schedule-section,
+	.schedule-image {
+		display: none;
+	}
+
+	.accordion {
+		display: block;
+	}
+
+	.accordion-button {
+		font-family: var(--mohave);
+	}
+
+	/* Footer */
+	.footer-div {
+		width: 90%;
+	}
+
+	.footer-logo-link {
+		margin-left: 0rem;
+	}
+
+	.footer-logo-link img {
+		width: 120px;
+		height: 40px;
+	}
+
+	.copyright {
+		font-weight: 900;
+		font-size: x-small;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.history-section {
+		height: 120vh;
+	}
+}
