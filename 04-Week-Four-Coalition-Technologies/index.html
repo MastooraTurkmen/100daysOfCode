@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los Angeles</title>
+    <link rel="stylesheet" href="styles/index.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flickity/3.0.0/flickity.min.css" integrity="sha512-fJcFDOQo2+/Ke365m0NMCZt5uGYEWSxth3wg2i0dXu7A1jQfz9T4hdzz6nkzwmJdOdkcS8jmy2lWGaRXl+nFMQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mohave:wght@700&family=Nunito+Sans:ital,opsz,wght@1,6..12,665&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <section class="parallax-wrapper">
+        <!-- Desktop Hero Section Parallax Header -->
+        <header id="hero">
+            <!-- Top Navbar -->
+            <nav class="navbar" id="navbar-one">
+                <div id="navbar-content" class="container-fluid">
+                    <a class="navbar-brand" role="button">
+                        <img id="top-logo" class="logo" src="images/lam-logo.png" alt="logo" width="40" height="40">
+                    </a>
+                    <div class="nav-links">
+                        <a class="history-link" href="#history" role="button">01. HISTORY</a>
+                        <a class="" href="#climb" role="button">02. TEAM</a>
+                    </div>
+                </div>
+            </nav>
+            <img class="background" src="images/lam-hero-image.png" alt="background"/>
+            <img class="foreground" src="images/lam-hero-image-mask.png" alt="foreground"/>
+        </header>
+        <!-- Mobile Hero Section -->
+        <section class="hero-section" id="hero">
+            <!-- Top Navbar -->
+            <nav class="navbar">
+                <div id="navbar-content" class="container-fluid">
+                    <a class="navbar-brand" role="button">
+                        <img id="top-logo" class="logo" src="images/lam-logo.png" alt="logo" width="40" height="40">
+                    </a>
+                    <div class="nav-links">
+                        <a class="history-link" href="#history" role="button">01. HISTORY</a>
+                        <a class="" href="#climb" role="button">02. TEAM</a>
+                    </div>
+                </div>
+            </nav>
+        </section>
+        <!-- Second Navbar -->
+        <div class="navbar" id="navbar-two">
+            <div id="navbar-content" class="container-fluid">
+                <a class="navbar-brand" href="#hero" role="button">
+                    <img class="logo" src="images/lam-logo.png" alt="logo" width="40" height="40">
+                    <img class="logo-text" src="images/lam-logo-text.png" alt="logo-text" width="100" height="40">
+                </a>
+                <div class="second-nav-links">
+                    <a class="history-link" href="#history" role="button">01. HISTORY</a>
+                    <a class="" href="#climb" role="button">02. TEAM</a>
+                </div>
+            </div>
+        </div>
+        <!-- History Section -->
+        <section class="history-section" id="history">
+            <div class="history-info">
+                <img class="history-title" src="images/lam-big-01-title.png" alt="01-title" width="180" height="120" />
+                <p class="history-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus id interdum velit laoreet. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Felis imperdiet proin fermentum leo vel orci porta non. Diam in arcu cursus euismod quis viverra. Dignissim convallis aenean et tortor.</p>
+            </div>
+            <div class="gallery" data-flickity='{ "cellAlign": "left", "contain": true }'>
+                <div class="gallery-cell">
+                    <img src="images/lam-first-carousel-image.png" alt="first-carousel-image" width="240" height="130" />
+                </div>
+                <div class="gallery-cell">
+                    <img src="images/lam-second-carousel-image.png" alt="second-carousel-image" width="240" height="130" />
+                </div>
+                <div class="gallery-cell">
+                    <img src="images/lam-first-carousel-image.png" alt="third-carousel-image" width="240" height="130" />
+                </div>
+                <div class="gallery-cell">
+                    <img src="images/lam-second-carousel-image.png" alt="fourth-carousel-image" width="240" height="130" />
+                </div>
+            </div>
+        </section>
+        <!-- Climb Section -->
+        <section class="climb-section" id="climb">
+            <div class="climb-info">
+                <img class="climb-title" src="images/lam-big-02-title.png" alt="01-title" width="180" height="120" />
+                <p class="climb-text">Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Proin sed libero enim sed faucibus. Adipiscing commodo elit at imperdiet dui accumsan.</p>
+            </div>
+        </section>
+        <!-- Schedule Section -->
+        <div class="mountain-tabs">
+            <div class="tabs">
+                <button role="button" type="button" class="active" id="mountain-one">MOUNTAIN 1</button>
+                <button role="button" type="button" class="inactive" id="mountain-two">MOUNTAIN 2</button>
+            </div>
+        </div>
+        <div class="active-section" id="schedule-section">
+            <div class="schedule-image">
+                <img class="active-tab-image" id="tab-one-image" src="images/lam-tab-1-schedule.png" alt="tab-one" width="400" height="280" />
+                <img class="inactive-tab-image" id="tab-two-image" src="images/lam-tab-2-schedule.png" alt="tab-one" width="400" height="280" />
+            </div>
+        </div>
+        <!-- Schedule Accordian For Mobile -->
+        <div class="accordion accordion-flush" id="accordionFlush">
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button id="accordion-button-one" class="accordion-button collapsed" role="button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                        MOUNTAIN 1
+                    </button>
+                </h2>
+                <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlush">
+                    <div id="accordion-body-one" class="accordion-body">
+                        <img class="" id="" src="images/lam-tab-1-schedule.png" alt="tab-one" width="400" height="280" />
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button id="accordion-button-two" class="accordion-button collapsed" role="button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                        MOUNTAIN 2
+                    </button>
+                </h2>
+                <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlush">
+                    <div id="accordion-body-two" class="accordion-body">
+                        <img class="" id="" src="images/lam-tab-2-schedule.png" alt="tab-one" width="400" height="280" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer -->
+        <div class="footer">
+            <div class="footer-div">
+                <a class="footer-logo-link" href="#hero" role="button">
+                    <img class="footer-logo" src="images/lam-footer-logo.png" alt="footer-logo" width="205" height="65" />
+                </a>
+                <div class="copyright">
+                    COPYRIGHT 2016. ALL RIGHTS RESERVED.
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Library JS & our JS -->
+    <script src="https://unpkg.com/jquery"></script>
+    <script src="https://unpkg.com/axios/dist/axios.js"></script>
+    <script src="scripts/index.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flickity/3.0.0/flickity.pkgd.min.js" integrity="sha512-achKCfKcYJg0u0J7UDJZbtrffUwtTLQMFSn28bDJ1Xl9DWkl/6VDT3LMfVTo09V51hmnjrrOTbtg4rEgg0QArA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</body>
+</html>
