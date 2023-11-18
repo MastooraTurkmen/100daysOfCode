@@ -2,7 +2,7 @@
 
 A very simple project made by CSS and HTML. 
 
-![Alt text](./screenshots/image.png)
+![screenshots](./screenshots/image.png)
 
 ![Alt text](./screenshots/image-1.png)
 
