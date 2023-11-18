@@ -2,5 +2,5 @@
 
 ![Screenshot](image.png)
 ![Screenshot](image-1.png)
-![alt text](image-2.png)
+![Screenshot](image-2.png)
 ![alt text](image-3.png)
