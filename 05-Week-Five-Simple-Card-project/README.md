@@ -6,6 +6,6 @@ A very simple project made by CSS and HTML.
 
 ![screenshots](./screenshots/image-1.png)
 
-![Alt text](./screenshots/image-2.png)
+![screenshots](./screenshots/image-2.png)
 
 ![Alt text](./screenshots/image-3.png)
