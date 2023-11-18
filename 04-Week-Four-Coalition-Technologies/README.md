@@ -3,4 +3,4 @@
 ![Screenshot](image.png)
 ![Screenshot](image-1.png)
 ![Screenshot](image-2.png)
-![alt text](image-3.png)
+![Screenshot](image-3.png)
