@@ -81,3 +81,7 @@ button[type="submit"]:focus,
 #draw-button:focus {
   outline: none;
 }
+
+#participants-list {
+  margin-bottom: 20px;
+}
