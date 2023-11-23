@@ -12,3 +12,9 @@ header {
   background-color: #ff4081;
   padding: 20px;
 }
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 32px;
+}
