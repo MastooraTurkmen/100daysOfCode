@@ -31,4 +31,8 @@ drawButton.addEventListener('click', function () {
   }
 });
 
-
+resetButton.addEventListener('click', function () {
+  winnerDisplay.innerHTML = '';
+  participantsList.innerHTML = '';
+  participants.length = 0;
+});
