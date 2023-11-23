@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <link rel="icon" type="image/svg+xml" href="cake-icon.svg" />
@@ -9,28 +10,30 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
   <title>Cake Raffle</title>
 </head>
+
 <body>
   <header>
     <h1><i class="material-icons">cake</i> Cake Raffle</h1>
   </header>
-  
+
   <div class="container">
     <form id="entry-form">
       <label for="name">Enter your name:</label>
       <input type="text" id="name" required>
       <button type="submit">Enter</button>
     </form>
-    
+
     <div id="participants-list"></div>
-    
+
     <div id="winner-display"></div>
-    
+
     <div class="btn-group">
       <button id="draw-button">Draw</button>
       <button id="reset-button">Reset</button>
     </div>
   </div>
-  
+
   <script src="script.js"></script>
 </body>
+
 </html>
