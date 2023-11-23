@@ -6,7 +6,7 @@ My first Cats Prject for _*100DaysOFTheCode*_ > https://my-best-cats-project.net
 
 ## Second Week of Code
 
-Portfolio Project
+My Second Portfolio Project for _*100DaysOFTheCode*_ >
 
 ---
 
