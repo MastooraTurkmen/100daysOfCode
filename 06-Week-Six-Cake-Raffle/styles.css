@@ -63,3 +63,16 @@ button[type="submit"],
   font-weight: bold;
   transition: background-color 0.3s;
 }
+
+#reset-button {
+  background-color: #007bff;
+}
+
+#reset-button:hover {
+  background-color: #1367c0;
+}
+
+button[type="submit"]:hover,
+#draw-button:hover {
+  background-color: #d5004e;
+}
