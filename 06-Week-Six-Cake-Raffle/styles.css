@@ -7,3 +7,8 @@ button {
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  background-color: #ff4081;
+  padding: 20px;
+}
