@@ -8,4 +8,4 @@ A very simple project made by CSS and HTML.
 
 ![screenshots](./screenshots/image-2.png)
 
-![Alt text](./screenshots/image-3.png)
+![screenshots](./screenshots/image-3.png)
