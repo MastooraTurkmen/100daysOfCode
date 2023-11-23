@@ -10,4 +10,11 @@ body {
     width: 100px;
 }
 
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+}
+
    
