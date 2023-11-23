@@ -18,3 +18,17 @@ form.addEventListener('submit', function (event) {
 
   nameInput.value = '';
 });
+
+// Click event listener for the draw button
+drawButton.addEventListener('click', function () {
+  if (participants.length > 0) {
+    // Randomly select a winner
+    const winnerIndex = Math.floor(Math.random() * participants.length);
+    const winner = participants[winnerIndex];
+
+    // Display the winner's name with emojis
+    winnerDisplay.innerHTML = `<p>🎉 Winner: ${winner} 🍰</p>`;
+  }
+});
+
+
