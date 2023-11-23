@@ -30,3 +30,8 @@ h1 {
 form {
   margin-bottom: 20px;
 }
+
+.btn-group {
+  display: flex;
+  gap: 10px;
+}
