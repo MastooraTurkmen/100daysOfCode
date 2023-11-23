@@ -76,3 +76,8 @@ button[type="submit"]:hover,
 #draw-button:hover {
   background-color: #d5004e;
 }
+
+button[type="submit"]:focus,
+#draw-button:focus {
+  outline: none;
+}
