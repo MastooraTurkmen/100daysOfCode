@@ -3,4 +3,4 @@
 Simple galaxy site with animation
 
 ![Screenshot](./screenshots/Screenshot-1.png)
-![Screenshot](Screenshot.png)
+![Screenshot](./screenshots/Screenshot.png)
