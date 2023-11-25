@@ -3,3 +3,5 @@
 > About My Site
 
 Hello there, this is my first CSS and HTML project.
+
+![alt text](image.png)
