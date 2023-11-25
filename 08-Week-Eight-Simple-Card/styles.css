@@ -2,3 +2,8 @@ body {
     margin: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.avatar {
+    width: 150px;
+    border-radius: 4px;
+}
