@@ -4,4 +4,4 @@
 
 Hello there, this is my first CSS and HTML project.
 
-![alt text](screenshot.png)
+![screenshot](screenshot.png)
