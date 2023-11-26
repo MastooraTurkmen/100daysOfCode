@@ -4,4 +4,4 @@
 
 Hello there, this is my first CSS and HTML project.
 
-![screenshot](screenshot.png)
+![screenshot](./images/screenshot.png)
