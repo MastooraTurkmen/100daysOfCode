@@ -52,3 +52,12 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 
 ## Cloning the project 🔩 📪
+
+```
+# Clone this repository
+$ gh repo clone MastooraTurkmen/My-Cats
+
+# Go inside the repository
+$ cd my-cats
+
+```
