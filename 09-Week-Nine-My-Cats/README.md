@@ -7,3 +7,7 @@ This is my simple site which I made with React & Vite. This shows the Cats' imag
 ### Mobile Version
 
 ![Mobile Version Screenshot](./src/screenshots/Screenshot-1.png)
+
+### Tablet Version
+
+![Tablet Version Screenshot](./src/screenshots/Screenshot-2.png)
