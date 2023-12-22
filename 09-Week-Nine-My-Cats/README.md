@@ -16,8 +16,7 @@ This is my simple site which I made with React & Vite. This shows the Cats' imag
 
 ![Desktop Version Screenshot](./src/screenshots/Screenshot-3.png)
 
-
------
+---
 
 ## Development 🛠🔨
 
@@ -39,17 +38,15 @@ $ yarn dev
 # pnpm run dev
 ```
 
-
 Run Webpack in watch mode to continually compile the JavaScript as you work:
 
 ```
-$ yarn watch 
-# npm run watch 
+$ yarn watch
+# npm run watch
 # pnpm run watch
 ```
 
 Head over to https://vitejs.dev/ to learn more about using vite
-
 
 ## Cloning the project 🔩 📪
 
@@ -62,23 +59,23 @@ $ cd my-cats
 
 ```
 
------
+---
 
 ## Languages and Tools are used
 
 1. **Languages**
-    + [HTML](https://github.com/topics/html)
-    + [CSS](https://github.com/topics/css)
-    + [React](https://github.com/topics/react)
-    + [JavaScript](https://github.com/topics/javascript)
 
-2. **Tools** 
-    + [Chrome](https://github.com/topics/chrome)
-    + [VSCode](https://github.com/topics/vscode)
-    + [Figma](https://github.com/topics/figma)
+   - [HTML](https://github.com/topics/html)
+   - [CSS](https://github.com/topics/css)
+   - [React](https://github.com/topics/react)
+   - [JavaScript](https://github.com/topics/javascript)
 
------
+2. **Tools**
+   - [Chrome](https://github.com/topics/chrome)
+   - [VSCode](https://github.com/topics/vscode)
+   - [Figma](https://github.com/topics/figma)
 
+---
 
 ## Deployment📥
 
@@ -90,8 +87,10 @@ $ cd my-cats
 6. After selecting here you can see that the project **_Review configuration for My-Cats_** and then select the **_Deploy My-Cats_** Button.
 7. Now your project is Live.
 
-------
+---
 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
