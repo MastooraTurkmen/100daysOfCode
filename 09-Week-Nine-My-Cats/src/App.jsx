@@ -20,7 +20,15 @@ function App() {
         phone="(212) 555-2345"
         email="fluff@me.com"
       />
-      
+      <Contact
+        img={Felix}
+        name="Felix"
+        phone="(212) 555-4567"
+        email="thecat@hotmail.com"
+      />
+      <Contact
+       
+      />
     </div>
   );
 }
