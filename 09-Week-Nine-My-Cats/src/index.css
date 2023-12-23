@@ -6,5 +6,6 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  
+  font-family: "Inter", sans-serif;
+  background-color: whitesmoke;
 }
