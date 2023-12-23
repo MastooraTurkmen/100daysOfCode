@@ -29,7 +29,7 @@ function App() {
       <Contact
         img={Pumpkin}
         name="Pumpkin"
-        
+        email="pumpkin@scrimba.com"
       />
     </div>
   );
