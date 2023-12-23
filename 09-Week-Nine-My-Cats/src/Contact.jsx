@@ -12,7 +12,7 @@ export default function Contact(props) {
         <p>{props.phone}</p>
       </div>
       <div className="info-group">
-       
+        <img src={MailIcon} />
       </div>
     </div>
   );
