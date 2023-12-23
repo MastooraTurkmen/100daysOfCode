@@ -9,3 +9,8 @@ body {
   font-family: "Inter", sans-serif;
   background-color: whitesmoke;
 }
+
+.contacts {
+  display: flex;
+  
+}
