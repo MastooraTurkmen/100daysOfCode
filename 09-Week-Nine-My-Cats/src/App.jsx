@@ -6,7 +6,11 @@ import Felix from "./images/felix.png";
 import Pumpkin from "./images/pumpkin.png";
 
 function App() {
-  
+  return (
+    <div className="contacts">
+      
+    </div>
+  );
 }
 
 export default App;
