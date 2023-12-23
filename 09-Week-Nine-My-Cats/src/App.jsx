@@ -28,6 +28,7 @@ function App() {
       />
       <Contact
         img={Pumpkin}
+        name="Pumpkin"
         
       />
     </div>
