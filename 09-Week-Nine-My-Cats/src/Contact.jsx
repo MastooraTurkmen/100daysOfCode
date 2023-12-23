@@ -13,6 +13,7 @@ export default function Contact(props) {
       </div>
       <div className="info-group">
         <img src={MailIcon} />
+        <p>{props.email}</p>
       </div>
     </div>
   );
