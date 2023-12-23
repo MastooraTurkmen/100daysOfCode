@@ -27,7 +27,8 @@ function App() {
         email="thecat@hotmail.com"
       />
       <Contact
-       
+        img={Pumpkin}
+        
       />
     </div>
   );
