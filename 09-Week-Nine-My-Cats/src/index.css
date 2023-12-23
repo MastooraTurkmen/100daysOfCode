@@ -16,3 +16,8 @@ body {
   flex-wrap: wrap;
   gap: 40px;
 }
+
+.contact-card {
+  flex-basis: 225px;
+  
+}
