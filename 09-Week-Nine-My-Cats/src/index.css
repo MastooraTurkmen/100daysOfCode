@@ -50,3 +50,8 @@ body {
   height: 11px;
   margin-right: 8px;
 }
+
+.info-group>p {
+  margin-block: 3px;
+ 
+}
