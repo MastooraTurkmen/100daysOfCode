@@ -33,5 +33,5 @@ body {
   height: auto;
   align-self: center;
   border-radius: 5px;
-  
+  object-fit: cover;
 }
