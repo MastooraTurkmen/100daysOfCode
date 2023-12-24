@@ -45,3 +45,6 @@ body {
   display: flex;
   align-items: center;
 }
+
+.info-group>img {
+  height: 11px;
