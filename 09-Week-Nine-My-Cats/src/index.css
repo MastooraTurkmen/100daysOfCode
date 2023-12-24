@@ -43,5 +43,5 @@ body {
 
 .info-group {
   display: flex;
-  
+  align-items: center;
 }
