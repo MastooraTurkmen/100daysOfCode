@@ -31,6 +31,6 @@ body {
 .contact-card>img {
   width: 100%;
   height: auto;
-  
-  color: #2b283a;
+  align-self: center;
+ 
 }
