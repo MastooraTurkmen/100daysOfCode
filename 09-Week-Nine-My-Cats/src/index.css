@@ -35,3 +35,8 @@ body {
   border-radius: 5px;
   object-fit: cover;
 }
+
+.contact-card>h3 {
+  font-weight: 700;
+ 
+}
