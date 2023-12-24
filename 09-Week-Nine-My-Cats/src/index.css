@@ -32,5 +32,6 @@ body {
   width: 100%;
   height: auto;
   align-self: center;
- 
+  border-radius: 5px;
+  
 }
