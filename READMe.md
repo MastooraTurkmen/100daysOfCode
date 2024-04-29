@@ -1,10 +1,10 @@
 # 100DaysOFTheCode
 
-## First Week of Code
+### First Week of Code
 
 My first Cats Prject for _*100DaysOFTheCode*_ > https://my-best-cats-project.netlify.app/
 
-## Second Week of Code
+### Second Week of Code
 
 My Second Portfolio Project for _*100DaysOFTheCode*_ >
 
